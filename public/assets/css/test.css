@@ -1,0 +1,24 @@
+.tasks{
+    height: 60vh;
+    overflow: auto;
+}
+
+.ab{
+    display: none;
+}
+.show-hide .bi-plus-square{
+    cursor: pointer;
+}
+.show-hide .bi-dash-square{
+    display: none;
+    cursor: pointer;
+}
+
+.draggable {
+    
+    cursor: move;
+  }
+  .drop-area {
+    
+    border: 1px solid #000;
+  }
